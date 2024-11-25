@@ -1,0 +1,9 @@
+{
+    "slash": {
+        "name": "info",
+        "description": "取得當前歌曲資訊",
+        "options": []
+    },
+    "module": "music",
+    "execute": "info"
+}

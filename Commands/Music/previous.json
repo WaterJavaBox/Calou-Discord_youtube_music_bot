@@ -1,0 +1,9 @@
+{
+    "slash": {
+        "name": "previous",
+        "description": "上一首音樂",
+        "options": []
+    },
+    "module": "music",
+    "execute": "previous"
+}

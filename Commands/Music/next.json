@@ -1,0 +1,9 @@
+{
+    "slash": {
+        "name": "next",
+        "description": "下一首音樂",
+        "options": []
+    },
+    "module": "music",
+    "execute": "next"
+}

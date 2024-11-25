@@ -1,0 +1,9 @@
+{
+    "slash": {
+        "name": "pause",
+        "description": "暫停音樂",
+        "options": []
+    },
+    "module": "music",
+    "execute": "pause"
+}

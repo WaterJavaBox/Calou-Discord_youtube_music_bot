@@ -1,0 +1,7 @@
+{
+    "token": {
+        "Discord": "Put your token here",
+        "Google": "Put your API key here"
+    },
+    "clientID": "Put your bot ID here"
+}

@@ -1,0 +1,16 @@
+{
+    "slash": {
+        "name": "join",
+        "description": "加入 你所在/指定 的語音頻道",
+        "options": [
+            {
+                "name": "voice_channel",
+                "description": "指定加入的頻道",
+                "type": 3,
+                "required": false
+            }
+        ]
+    },
+    "module": "music",
+    "execute": "join"
+}

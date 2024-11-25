@@ -1,0 +1,16 @@
+{
+    "slash": {
+        "name": "play",
+        "description": "播放 指定/隨機 歌曲",
+        "options": [
+            {
+                "name": "input",
+                "description": "歌曲的 網址/名稱",
+                "type": 3,
+                "required": false
+            }
+        ]
+    },
+    "module": "music",
+    "execute": "play"
+}
